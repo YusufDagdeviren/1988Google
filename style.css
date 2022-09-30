@@ -1,0 +1,51 @@
+header {
+    text-align: center;
+}
+.searchResults {
+    text-align: center;
+    background-color: #EEEEEE;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 10px;
+}
+section{
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+.box1 {
+    width: 37%;
+    text-align: center;
+    float: left;
+    background-color: #7EE5DA;
+    border-style: ridge;
+    border-right:  5px;
+    padding-bottom: 10px;
+    height: 80px;
+}
+.small-size {
+    font-size:small;
+}
+.box2 {
+    width: 17%;
+    text-align: center;
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: ridge;
+    border-right:5px;
+    padding-bottom: 10px;
+    background-color: #70CCC2;
+    height: 75px;
+}
+.box3 {
+    text-align: center;
+    border-style:ridge;
+    border-right: 5px;
+    background-color: #62B3AA;
+    height: 90px;
+    
+}
+.none-list-style {
+    list-style-type: none;
+}
